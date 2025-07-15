@@ -1,0 +1,144 @@
+{
+  "request": [
+    {
+      "description": "This perfectly thin cut just melts in your mouth.",
+      "name": "Asian Flank Steak",
+      "carbs": 0,
+      "id": 1,
+      "imageURL": "https://raw.githubusercontent.com/ritatir/Appetizers/refs/heads/main/asian-flank-steak.jpg",
+      "protein": 14,
+      "price": 8.99,
+      "calories": 300
+    },
+    {
+      "description": "Seasoned shrimp from the depths of the Atlantic Ocean.",
+      "name": "Blackened Shrimp",
+      "carbs": 3,
+      "id": 2,
+      "imageURL": "https://raw.githubusercontent.com/ritatir/Appetizers/main/blackened-shrimp.jpg",
+      "protein": 4,
+      "price": 6.99,
+      "calories": 450
+    },
+    {
+      "description": "The tasty bites of chicken have just the right amount of kick to them.",
+      "carbs": 22,
+      "name": "Buffalo Chicken Bites",
+      "id": 3,
+      "imageURL": "https://raw.githubusercontent.com/ritatir/Appetizers/main/buffalo-chicken-bites.jpg",
+      "protein": 5,
+      "price": 7.49,
+      "calories": 800
+    },
+    {
+      "description": "These won't last 10 seconds once they hit the table.",
+      "name": "Chicken Avocado Spring Roll",
+      "carbs": 19,
+      "id": 4,
+      "imageURL": "https://images.unsplash.com/photo-1598514982841-c6fa6f19b54d",
+      "protein": 7,
+      "price": 12.99,
+      "calories": 480
+    },
+    {
+      "description": "It's really hard to keep coming up with these descriptions.",
+      "carbs": 14,
+      "name": "Chicken Dumplings",
+      "id": 5,
+      "imageURL": "https://images.unsplash.com/photo-1589308078054-83287752ad05",
+      "protein": 4,
+      "price": 8.99,
+      "calories": 580
+    },
+    {
+      "description": "You can never go wrong with some good tenders.",
+      "name": "Chicken Fingers",
+      "carbs": 5,
+      "id": 6,
+      "imageURL": "https://images.unsplash.com/photo-1634668037330-b2907f3a1d69",
+      "protein": 9,
+      "price": 9.99,
+      "calories": 675
+    },
+    {
+      "description": "You'll need extra napkins with these tasty treats.",
+      "name": "Chicken Wings",
+      "carbs": 11,
+      "id": 7,
+      "imageURL": "https://images.unsplash.com/photo-1601924638867-3ec8f72f6875",
+      "protein": 13,
+      "price": 11.49,
+      "calories": 700
+    },
+    {
+      "description": "I'm getting soooo hungry building this app...",
+      "name": "Fried Cheese Ravioli",
+      "carbs": 29,
+      "id": 8,
+      "imageURL": "https://images.unsplash.com/photo-1642691142510-3013cc9770cb",
+      "protein": 2,
+      "price": 8.29,
+      "calories": 415
+    },
+    {
+      "imageURL": "https://images.unsplash.com/photo-1613149739395-1bce1ee802d0",
+      "protein": 3,
+      "calories": 625,
+      "carbs": 40,
+      "description": "Scrumptious tots with a side of ranch.",
+      "name": "Jumbo Tater Tots",
+      "id": 9,
+      "price": 13.99
+    },
+    {
+      "id": 10,
+      "imageURL": "https://images.unsplash.com/photo-1628840042648-0961b0de82c6",
+      "calories": 500,
+      "carbs": 2,
+      "description": "It's a spiiiiicy meat-a-ball!",
+      "name": "Meatballs",
+      "price": 12.99,
+      "protein": 33
+    },
+    {
+      "imageURL": "https://images.unsplash.com/photo-1589923188900-1fc1fa582b84",
+      "protein": 2,
+      "name": "Mozzarella Sticks",
+      "carbs": 32,
+      "calories": 930,
+      "price": 6.99,
+      "description": "The best appetizer there is.\nDon't @ me.",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "imageURL": "https://images.unsplash.com/photo-1601924928232-2c2b907c7f3f",
+      "calories": 725,
+      "carbs": 28,
+      "description": "These look incredible. That's it. That's the description.",
+      "price": 10.99,
+      "protein": 28,
+      "name": "Philly Cheesesteak Sliders"
+    },
+    {
+      "imageURL": "https://images.unsplash.com/photo-1589307003536-0c1f9e903bb3",
+      "protein": 2,
+      "name": "Rainbow Spring Rolls",
+      "carbs": 4,
+      "id": 13,
+      "price": 5.99,
+      "description": "How did these even make the menu???",
+      "calories": 270
+    },
+    {
+      "imageURL": "https://images.unsplash.com/photo-1614921912213-35ee51a0e9c8",
+      "protein": 4,
+      "calories": 850,
+      "carbs": 42,
+      "description": "I'm getting hungrier just looking at these.",
+      "price": 12.49,
+      "id": 14,
+      "name": "Stuffed Shells"
+    }
+  ]
+}
